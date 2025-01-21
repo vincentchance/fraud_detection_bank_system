@@ -8,7 +8,8 @@ It surely making us as costumers don't believe our bank did not have integrity m
 Read the guide
 
 Guide:
-1. Download the data or clone it
-2. open mysql workbench or myphpadmin with xampp port 3310 or 3306 (change name port database to adjust it in DatabaseUtils.java)
-3. click file directory and open cmd in location
-4. run the file mvn exec:java -Dexec.mainClass=com.example.fraud.App
+1. Open branch master
+2. Download the data or clone it
+3. open mysql workbench or myphpadmin with xampp port 3310 or 3306 (change name port database to adjust it in DatabaseUtils.java)
+4. click file directory and open cmd in location
+5. run the file mvn exec:java -Dexec.mainClass=com.example.fraud.App
