@@ -1,4 +1,4 @@
-package com.example;
+package com.example.fraud;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

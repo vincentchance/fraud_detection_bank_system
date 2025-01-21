@@ -1,1 +1,9 @@
-com\example\App.class
+com\example\fraud\model\User.class
+com\example\fraud\dao\TransactionDao.class
+com\example\fraud\model\Transaction.class
+com\example\fraud\dao\AlertDao.class
+com\example\fraud\utils\DatabaseUtils.class
+com\example\fraud\App.class
+com\example\fraud\model\Alert.class
+com\example\fraud\service\FraudDetectionService.class
+com\example\fraud\dao\UserDao.class
